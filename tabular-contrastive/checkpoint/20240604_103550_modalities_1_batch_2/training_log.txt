@@ -1,6 +1,0 @@
--------------start training epoch 1/3-----------
-Epoch 1/3, Loss: 0.6493, Accuracy: 0.6388, Precision: 0.7273, Recall: 0.8397, F1: 0.6252, Time: 327.97 s
--------------start training epoch 2/3-----------
-Epoch 2/3, Loss: 0.3999, Accuracy: 0.8254, Precision: 0.8660, Recall: 0.9019, F1: 0.8006, Time: 316.12 s
--------------start training epoch 3/3-----------
-Epoch 3/3, Loss: 0.3062, Accuracy: 0.8708, Precision: 0.8995, Recall: 0.9306, F1: 0.8676, Time: 330.51 s

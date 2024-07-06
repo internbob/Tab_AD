@@ -1,2 +1,0 @@
--------------start stage 2 training epoch 1/1-----------
-stage 2 Epoch 1/1, Loss: 0.9813,mse Loss: 0.4186, Accuracy: 0.7056, Time: 391.30s

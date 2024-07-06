@@ -1,2 +1,0 @@
-no_data_aug/lr_e-4/triple_calssifer-------------start training epoch 1/10-----------
-Learning rate:0.0001Epoch 1/10, Loss: nan, t1 Loss: nan,fdg Loss: nan,t1_Accuracy: 0.5105,fdg_Accuracy: 0.5185, Time: 927.81s

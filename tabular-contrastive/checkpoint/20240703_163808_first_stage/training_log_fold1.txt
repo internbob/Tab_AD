@@ -1,4 +1,0 @@
--------------start training epoch 1/1-----------
-Learning rate:0.0001Epoch 1/1, Loss: 1.3005, t1 Loss: 0.6493,clip Loss: 1.9110,fdg Loss: 0.4601,t1_Accuracy: 0.6237,fdg_Accuracy: 0.7857, Time: 402.47s
-t1 Validation Loss: 0.5696, t1 Validation Accuracy: 0.7422, Validation AUC: 0.7351, Precision: 0.7600, Recall: 0.7917, F1: 0.7755, Sensitivity: 0.7917, Specificity: 0.6786
-fdg Validation Loss: 0.3789, fdg Validation Accuracy: 0.8359, fdg Validation AUC: 0.8423, fdg Precision: 0.9048, fdg Recall: 0.7917, fdg F1: 0.8444, fdg Sensitivity: 0.7917, fdg Specificity: 0.8929

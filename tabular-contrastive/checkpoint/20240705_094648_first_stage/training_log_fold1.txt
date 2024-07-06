@@ -1,2 +1,0 @@
--------------start training epoch 1/1-----------
-Learning rate:0.0001Epoch 1/1, Loss: 1.3417, t1 Loss: 0.6653,clip Loss: 1.8671,fdg Loss: 0.4897,t1_Accuracy: 0.6028,fdg_Accuracy: 0.7352, Time: 408.75s
