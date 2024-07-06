@@ -1,0 +1,30 @@
+-------------start training epoch 1/15-----------
+Epoch 1/15, Loss: 0.6003, Accuracy: 0.6972, Precision: 0.7539, Recall: 0.8982, F1: 0.7560, Time: 544.25 s
+-------------start training epoch 2/15-----------
+Epoch 2/15, Loss: 0.4456, Accuracy: 0.8119, Precision: 0.8570, Recall: 0.9072, F1: 0.8239, Time: 527.45 s
+-------------start training epoch 3/15-----------
+Epoch 3/15, Loss: 0.3438, Accuracy: 0.8441, Precision: 0.8776, Recall: 0.9304, F1: 0.8514, Time: 528.14 s
+-------------start training epoch 4/15-----------
+Epoch 4/15, Loss: 0.2374, Accuracy: 0.9098, Precision: 0.9304, Recall: 0.9613, F1: 0.9158, Time: 526.97 s
+-------------start training epoch 5/15-----------
+Epoch 5/15, Loss: 0.1350, Accuracy: 0.9497, Precision: 0.9626, Recall: 0.9729, F1: 0.9467, Time: 527.15 s
+-------------start training epoch 6/15-----------
+Epoch 6/15, Loss: 0.0375, Accuracy: 0.9923, Precision: 0.9923, Recall: 0.9987, F1: 0.9931, Time: 527.69 s
+-------------start training epoch 7/15-----------
+Epoch 7/15, Loss: 0.0025, Accuracy: 1.0000, Precision: 1.0000, Recall: 1.0000, F1: 1.0000, Time: 524.62 s
+-------------start training epoch 8/15-----------
+Epoch 8/15, Loss: 0.0008, Accuracy: 1.0000, Precision: 1.0000, Recall: 1.0000, F1: 1.0000, Time: 524.29 s
+-------------start training epoch 9/15-----------
+Epoch 9/15, Loss: 0.0004, Accuracy: 1.0000, Precision: 1.0000, Recall: 1.0000, F1: 1.0000, Time: 523.99 s
+-------------start training epoch 10/15-----------
+Epoch 10/15, Loss: 0.0003, Accuracy: 1.0000, Precision: 1.0000, Recall: 1.0000, F1: 1.0000, Time: 523.05 s
+-------------start training epoch 11/15-----------
+Epoch 11/15, Loss: 0.0002, Accuracy: 1.0000, Precision: 1.0000, Recall: 1.0000, F1: 1.0000, Time: 526.07 s
+-------------start training epoch 12/15-----------
+Epoch 12/15, Loss: 0.0002, Accuracy: 1.0000, Precision: 1.0000, Recall: 1.0000, F1: 1.0000, Time: 528.15 s
+-------------start training epoch 13/15-----------
+Epoch 13/15, Loss: 0.0001, Accuracy: 1.0000, Precision: 1.0000, Recall: 1.0000, F1: 1.0000, Time: 528.03 s
+-------------start training epoch 14/15-----------
+Epoch 14/15, Loss: 0.0001, Accuracy: 1.0000, Precision: 1.0000, Recall: 1.0000, F1: 1.0000, Time: 528.19 s
+-------------start training epoch 15/15-----------
+Epoch 15/15, Loss: 0.0001, Accuracy: 1.0000, Precision: 1.0000, Recall: 1.0000, F1: 1.0000, Time: 528.26 s

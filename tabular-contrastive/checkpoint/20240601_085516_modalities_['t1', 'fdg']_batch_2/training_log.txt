@@ -1,0 +1,2 @@
+-------------start training epoch 1/20-----------
+Epoch 1/20, Loss: 2.4563, Accuracy: 0.7153, Precision: 0.8134, Recall: 0.8254, F1: 0.6954, Time: 4976.51 s

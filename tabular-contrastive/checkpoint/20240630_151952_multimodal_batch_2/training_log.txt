@@ -1,0 +1,1 @@
+-------------start stage 2 training epoch 1/12-----------

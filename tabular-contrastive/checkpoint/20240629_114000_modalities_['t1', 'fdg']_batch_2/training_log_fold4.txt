@@ -1,0 +1,48 @@
+del_classifier_batch/lr_e-4-change-per-5-epoch/data_aug-------------start training epoch 1/12-----------
+Learning rate:0.0001Epoch 1/12, Loss: 1.2548, t1 Loss: 0.6190,fdg Loss: 0.4481,t1_Accuracy: 0.6481,fdg_Accuracy: 0.7836, Time: 1351.62s
+t1 Validation Loss: 0.4815, t1 Validation Accuracy: 0.7512, Validation AUC: 0.7421, Precision: 0.7086, Recall: 0.8995, F1: 0.7928, Sensitivity: 0.8995, Specificity: 0.5846
+fdg Validation Loss: 0.3166, fdg Validation Accuracy: 0.8527, fdg Validation AUC: 0.8453, fdg Precision: 0.7948, fdg Recall: 0.9726, fdg F1: 0.8747, fdg Sensitivity: 0.9726, fdg Specificity: 0.7179
+-------------start training epoch 2/12-----------
+Learning rate:0.0001Epoch 2/12, Loss: 0.8924, t1 Loss: 0.3925,fdg Loss: 0.3123,t1_Accuracy: 0.8311,fdg_Accuracy: 0.8617, Time: 1354.46s
+t1 Validation Loss: 0.4687, t1 Validation Accuracy: 0.7754, Validation AUC: 0.7849, Precision: 0.9315, Recall: 0.6210, F1: 0.7452, Sensitivity: 0.6210, Specificity: 0.9487
+fdg Validation Loss: 0.2548, fdg Validation Accuracy: 0.8744, fdg Validation AUC: 0.8678, fdg Precision: 0.8175, fdg Recall: 0.9817, fdg F1: 0.8921, fdg Sensitivity: 0.9817, fdg Specificity: 0.7538
+-------------start training epoch 3/12-----------
+Learning rate:0.0001Epoch 3/12, Loss: 0.7827, t1 Loss: 0.3206,fdg Loss: 0.2751,t1_Accuracy: 0.8596,fdg_Accuracy: 0.8907, Time: 1351.76s
+t1 Validation Loss: 0.3609, t1 Validation Accuracy: 0.8382, Validation AUC: 0.8313, Precision: 0.7879, Recall: 0.9498, F1: 0.8613, Sensitivity: 0.9498, Specificity: 0.7128
+fdg Validation Loss: 0.1853, fdg Validation Accuracy: 0.9275, fdg Validation AUC: 0.9284, fdg Precision: 0.9479, fdg Recall: 0.9132, fdg F1: 0.9302, fdg Sensitivity: 0.9132, fdg Specificity: 0.9436
+-------------start training epoch 4/12-----------
+Learning rate:0.0001Epoch 4/12, Loss: 0.6247, t1 Loss: 0.2159,fdg Loss: 0.2221,t1_Accuracy: 0.9087,fdg_Accuracy: 0.9164, Time: 1347.65s
+t1 Validation Loss: 0.2195, t1 Validation Accuracy: 0.9130, Validation AUC: 0.9153, Precision: 0.9552, Recall: 0.8767, F1: 0.9143, Sensitivity: 0.8767, Specificity: 0.9538
+fdg Validation Loss: 0.1385, fdg Validation Accuracy: 0.9469, fdg Validation AUC: 0.9442, fdg Precision: 0.9156, fdg Recall: 0.9909, fdg F1: 0.9518, fdg Sensitivity: 0.9909, fdg Specificity: 0.8974
+-------------start training epoch 5/12-----------
+Learning rate:0.0001Epoch 5/12, Loss: 0.5383, t1 Loss: 0.1618,fdg Loss: 0.1903,t1_Accuracy: 0.9317,fdg_Accuracy: 0.9295, Time: 1347.68s
+t1 Validation Loss: 0.3503, t1 Validation Accuracy: 0.8285, Validation AUC: 0.8182, Precision: 0.7569, Recall: 0.9954, F1: 0.8600, Sensitivity: 0.9954, Specificity: 0.6410
+fdg Validation Loss: 0.1495, fdg Validation Accuracy: 0.9444, fdg Validation AUC: 0.9421, fdg Precision: 0.9188, fdg Recall: 0.9817, fdg F1: 0.9492, fdg Sensitivity: 0.9817, fdg Specificity: 0.9026
+-------------start training epoch 6/12-----------
+Learning rate:0.0001Epoch 6/12, Loss: 0.4097, t1 Loss: 0.0890,fdg Loss: 0.1341,t1_Accuracy: 0.9754,fdg_Accuracy: 0.9601, Time: 1343.32s
+t1 Validation Loss: 0.1136, t1 Validation Accuracy: 0.9686, Validation AUC: 0.9681, Precision: 0.9640, Recall: 0.9772, F1: 0.9705, Sensitivity: 0.9772, Specificity: 0.9590
+fdg Validation Loss: 0.1245, fdg Validation Accuracy: 0.9541, fdg Validation AUC: 0.9541, fdg Precision: 0.9587, fdg Recall: 0.9543, fdg F1: 0.9565, fdg Sensitivity: 0.9543, fdg Specificity: 0.9538
+-------------start training epoch 7/12-----------
+Learning rate:0.0001Epoch 7/12, Loss: 0.3629, t1 Loss: 0.0599,fdg Loss: 0.1170,t1_Accuracy: 0.9809,fdg_Accuracy: 0.9634, Time: 1349.93s
+t1 Validation Loss: 0.1219, t1 Validation Accuracy: 0.9565, Validation AUC: 0.9553, Precision: 0.9427, Recall: 0.9772, F1: 0.9596, Sensitivity: 0.9772, Specificity: 0.9333
+fdg Validation Loss: 0.1162, fdg Validation Accuracy: 0.9469, fdg Validation AUC: 0.9447, fdg Precision: 0.9227, fdg Recall: 0.9817, fdg F1: 0.9513, fdg Sensitivity: 0.9817, fdg Specificity: 0.9077
+-------------start training epoch 8/12-----------
+Learning rate:0.0001Epoch 8/12, Loss: 0.3414, t1 Loss: 0.0451,fdg Loss: 0.1104,t1_Accuracy: 0.9896,fdg_Accuracy: 0.9678, Time: 1354.85s
+t1 Validation Loss: 0.1243, t1 Validation Accuracy: 0.9541, Validation AUC: 0.9549, Precision: 0.9717, Recall: 0.9406, F1: 0.9559, Sensitivity: 0.9406, Specificity: 0.9692
+fdg Validation Loss: 0.1148, fdg Validation Accuracy: 0.9614, fdg Validation AUC: 0.9604, fdg Precision: 0.9511, fdg Recall: 0.9772, fdg F1: 0.9640, fdg Sensitivity: 0.9772, fdg Specificity: 0.9436
+-------------start training epoch 9/12-----------
+Learning rate:0.0001Epoch 9/12, Loss: 0.3216, t1 Loss: 0.0414,fdg Loss: 0.0950,t1_Accuracy: 0.9885,fdg_Accuracy: 0.9716, Time: 1356.95s
+t1 Validation Loss: 0.1115, t1 Validation Accuracy: 0.9589, Validation AUC: 0.9601, Precision: 0.9810, Recall: 0.9406, F1: 0.9604, Sensitivity: 0.9406, Specificity: 0.9795
+fdg Validation Loss: 0.0965, fdg Validation Accuracy: 0.9710, fdg Validation AUC: 0.9712, fdg Precision: 0.9770, fdg Recall: 0.9680, fdg F1: 0.9725, fdg Sensitivity: 0.9680, fdg Specificity: 0.9744
+-------------start training epoch 10/12-----------
+Learning rate:0.0001Epoch 10/12, Loss: 0.3200, t1 Loss: 0.0369,fdg Loss: 0.0969,t1_Accuracy: 0.9896,fdg_Accuracy: 0.9694, Time: 1352.85s
+t1 Validation Loss: 0.1156, t1 Validation Accuracy: 0.9589, Validation AUC: 0.9601, Precision: 0.9810, Recall: 0.9406, F1: 0.9604, Sensitivity: 0.9406, Specificity: 0.9795
+fdg Validation Loss: 0.0947, fdg Validation Accuracy: 0.9614, fdg Validation AUC: 0.9615, fdg Precision: 0.9677, fdg Recall: 0.9589, fdg F1: 0.9633, fdg Sensitivity: 0.9589, fdg Specificity: 0.9641
+-------------start training epoch 11/12-----------
+Learning rate:0.0001Epoch 11/12, Loss: 0.3022, t1 Loss: 0.0321,fdg Loss: 0.0847,t1_Accuracy: 0.9923,fdg_Accuracy: 0.9749, Time: 1357.86s
+t1 Validation Loss: 0.1087, t1 Validation Accuracy: 0.9565, Validation AUC: 0.9572, Precision: 0.9718, Recall: 0.9452, F1: 0.9583, Sensitivity: 0.9452, Specificity: 0.9692
+fdg Validation Loss: 0.0854, fdg Validation Accuracy: 0.9783, fdg Validation AUC: 0.9780, fdg Precision: 0.9773, fdg Recall: 0.9817, fdg F1: 0.9795, fdg Sensitivity: 0.9817, fdg Specificity: 0.9744
+-------------start training epoch 12/12-----------
+Learning rate:0.0001Epoch 12/12, Loss: 0.2896, t1 Loss: 0.0249,fdg Loss: 0.0787,t1_Accuracy: 0.9962,fdg_Accuracy: 0.9792, Time: 1355.43s
+t1 Validation Loss: 0.1079, t1 Validation Accuracy: 0.9662, Validation AUC: 0.9658, Precision: 0.9638, Recall: 0.9726, F1: 0.9682, Sensitivity: 0.9726, Specificity: 0.9590
+fdg Validation Loss: 0.0972, fdg Validation Accuracy: 0.9734, fdg Validation AUC: 0.9729, fdg Precision: 0.9685, fdg Recall: 0.9817, fdg F1: 0.9751, fdg Sensitivity: 0.9817, fdg Specificity: 0.9641

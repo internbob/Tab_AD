@@ -1,0 +1,4 @@
+del_classifier_batch/lr_e-4-change-per-5-epoch/data_aug-------------start training epoch 1/1-----------
+Learning rate:0.0001Epoch 1/1, Loss: 1.1933, t1 Loss: 0.5777,fdg Loss: 0.4281,t1_Accuracy: 0.7060,fdg_Accuracy: 0.8066, Time: 1306.90s
+t1 Validation Loss: 0.4614, t1 Validation Accuracy: 0.7705, Validation AUC: 0.7744, Precision: 0.8333, Recall: 0.7078, F1: 0.7654, Sensitivity: 0.7078, Specificity: 0.8410
+fdg Validation Loss: 0.2178, fdg Validation Accuracy: 0.9130, fdg Validation AUC: 0.9130, fdg Precision: 0.9217, fdg Recall: 0.9132, fdg F1: 0.9174, fdg Sensitivity: 0.9132, fdg Specificity: 0.9128

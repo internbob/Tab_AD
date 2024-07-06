@@ -1,0 +1,4 @@
+-------------start stage 2 training epoch 1/10-----------
+stage 2 Epoch 1/10, Loss: 0.8645,mse Loss: 0.3863, Accuracy: 0.7753, Time: 394.18s
+Stage 2 Validation Loss: 0.2715,  Validation Accuracy: 0.9062, Validation AUC: 0.8968, Precision: 0.8750, Recall: 0.9722, F1: 0.9211, Sensitivity: 0.9722, Specificity: 0.8214
+-------------start stage 2 training epoch 2/10-----------

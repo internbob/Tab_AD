@@ -1,0 +1,20 @@
+-------------start training epoch 1/10-----------
+Epoch 1/10, Loss: 0.5953, Accuracy: 0.7033, Precision: 0.7775, Recall: 0.8636, F1: 0.6970, Time: 319.76 s
+-------------start training epoch 2/10-----------
+Epoch 2/10, Loss: 0.4088, Accuracy: 0.8230, Precision: 0.8589, Recall: 0.8995, F1: 0.8118, Time: 314.58 s
+-------------start training epoch 3/10-----------
+Epoch 3/10, Loss: 0.3403, Accuracy: 0.8565, Precision: 0.9019, Recall: 0.8852, F1: 0.8150, Time: 312.11 s
+-------------start training epoch 4/10-----------
+Epoch 4/10, Loss: 0.2408, Accuracy: 0.9019, Precision: 0.9282, Recall: 0.9354, F1: 0.8820, Time: 326.14 s
+-------------start training epoch 5/10-----------
+Epoch 5/10, Loss: 0.2015, Accuracy: 0.9115, Precision: 0.9474, Recall: 0.9282, F1: 0.8931, Time: 318.85 s
+-------------start training epoch 6/10-----------
+Epoch 6/10, Loss: 0.1640, Accuracy: 0.9306, Precision: 0.9258, Recall: 0.9641, F1: 0.8979, Time: 327.23 s
+-------------start training epoch 7/10-----------
+Epoch 7/10, Loss: 0.1231, Accuracy: 0.9522, Precision: 0.9665, Recall: 0.9737, F1: 0.9522, Time: 311.86 s
+-------------start training epoch 8/10-----------
+Epoch 8/10, Loss: 0.1082, Accuracy: 0.9522, Precision: 0.9641, Recall: 0.9689, F1: 0.9426, Time: 315.55 s
+-------------start training epoch 9/10-----------
+Epoch 9/10, Loss: 0.0523, Accuracy: 0.9809, Precision: 0.9856, Recall: 0.9904, F1: 0.9809, Time: 328.74 s
+-------------start training epoch 10/10-----------
+Epoch 10/10, Loss: 0.0172, Accuracy: 0.9952, Precision: 0.9952, Recall: 0.9976, F1: 0.9936, Time: 318.06 s

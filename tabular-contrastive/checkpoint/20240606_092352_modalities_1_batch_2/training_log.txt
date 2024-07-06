@@ -1,0 +1,40 @@
+-------------start training epoch 1/20-----------
+Epoch 1/20, Loss: 0.6022, Accuracy: 0.7392, Precision: 0.8278, Recall: 0.8565, F1: 0.7337, Time: 313.28 s
+-------------start training epoch 2/20-----------
+Epoch 2/20, Loss: 0.3625, Accuracy: 0.8565, Precision: 0.8804, Recall: 0.9115, F1: 0.8421, Time: 310.12 s
+-------------start training epoch 3/20-----------
+Epoch 3/20, Loss: 0.2862, Accuracy: 0.8780, Precision: 0.9067, Recall: 0.9258, F1: 0.8533, Time: 309.53 s
+-------------start training epoch 4/20-----------
+Epoch 4/20, Loss: 0.2687, Accuracy: 0.8828, Precision: 0.9139, Recall: 0.9258, F1: 0.8549, Time: 310.20 s
+-------------start training epoch 5/20-----------
+Epoch 5/20, Loss: 0.2079, Accuracy: 0.9091, Precision: 0.9306, Recall: 0.9354, F1: 0.8788, Time: 311.01 s
+-------------start training epoch 6/20-----------
+Epoch 6/20, Loss: 0.1645, Accuracy: 0.9426, Precision: 0.9522, Recall: 0.9617, F1: 0.9330, Time: 310.74 s
+-------------start training epoch 7/20-----------
+Epoch 7/20, Loss: 0.1081, Accuracy: 0.9593, Precision: 0.9761, Recall: 0.9785, F1: 0.9649, Time: 313.66 s
+-------------start training epoch 8/20-----------
+Epoch 8/20, Loss: 0.0645, Accuracy: 0.9809, Precision: 0.9761, Recall: 0.9904, F1: 0.9681, Time: 315.13 s
+-------------start training epoch 9/20-----------
+Epoch 9/20, Loss: 0.0218, Accuracy: 0.9976, Precision: 1.0000, Recall: 0.9976, F1: 0.9984, Time: 318.29 s
+-------------start training epoch 10/20-----------
+Epoch 10/20, Loss: 0.0158, Accuracy: 1.0000, Precision: 1.0000, Recall: 1.0000, F1: 1.0000, Time: 315.84 s
+-------------start training epoch 11/20-----------
+Epoch 11/20, Loss: 0.0031, Accuracy: 1.0000, Precision: 1.0000, Recall: 1.0000, F1: 1.0000, Time: 310.27 s
+-------------start training epoch 12/20-----------
+Epoch 12/20, Loss: 0.0021, Accuracy: 1.0000, Precision: 1.0000, Recall: 1.0000, F1: 1.0000, Time: 322.82 s
+-------------start training epoch 13/20-----------
+Epoch 13/20, Loss: 0.0012, Accuracy: 1.0000, Precision: 1.0000, Recall: 1.0000, F1: 1.0000, Time: 314.99 s
+-------------start training epoch 14/20-----------
+Epoch 14/20, Loss: 0.0009, Accuracy: 1.0000, Precision: 1.0000, Recall: 1.0000, F1: 1.0000, Time: 325.43 s
+-------------start training epoch 15/20-----------
+Epoch 15/20, Loss: 0.0028, Accuracy: 1.0000, Precision: 1.0000, Recall: 1.0000, F1: 1.0000, Time: 319.29 s
+-------------start training epoch 16/20-----------
+Epoch 16/20, Loss: 0.0010, Accuracy: 1.0000, Precision: 1.0000, Recall: 1.0000, F1: 1.0000, Time: 318.27 s
+-------------start training epoch 17/20-----------
+Epoch 17/20, Loss: 0.0005, Accuracy: 1.0000, Precision: 1.0000, Recall: 1.0000, F1: 1.0000, Time: 323.06 s
+-------------start training epoch 18/20-----------
+Epoch 18/20, Loss: 0.0003, Accuracy: 1.0000, Precision: 1.0000, Recall: 1.0000, F1: 1.0000, Time: 316.90 s
+-------------start training epoch 19/20-----------
+Epoch 19/20, Loss: 0.0003, Accuracy: 1.0000, Precision: 1.0000, Recall: 1.0000, F1: 1.0000, Time: 319.19 s
+-------------start training epoch 20/20-----------
+Epoch 20/20, Loss: 0.0002, Accuracy: 1.0000, Precision: 1.0000, Recall: 1.0000, F1: 1.0000, Time: 327.40 s
